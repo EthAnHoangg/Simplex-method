@@ -3,4 +3,4 @@ This is not a personal article but mostly noted from math.libretexts.org with mo
 A source for beginners to optimization & linear programming
 You could read the document directly via the link:  
 
-[https://ethanhoangg.github.io/Simplex-method/source.html]
+[link](https://ethanhoangg.github.io/Simplex-method/source.html)
